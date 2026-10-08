@@ -1,3 +1,5 @@
+package com.studentresult;
+
 public class StudentResult {
 
     // Method 1: Calculate total marks
